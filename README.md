@@ -1,26 +1,33 @@
-## Project 2 Learning Objectives
+# Project 2: Git 
 
-Upon successful completion of this project, participants will:
+For Project 2, I aimed to accomplish several key learning objectives:
 
-- Develop proficiency in using Git through both the command line interface (CLI) and Visual Studio Code (VSCode) Source Control.
-- Gain practical experience in writing and executing Node.js JavaScript code for non-web server applications.
-- Practice refactoring JavaScript code to improve code quality and maintainability.
+## Learning Objectives
 
-## Overview
+- **Proficiency with Git:**
+  I focused on mastering Git, both through the command line interface (CLI) and Visual Studio Code (VSCode) Source Control. This involved creating and managing Git repositories, which deepened my understanding of version control concepts.
 
-### Project Elements:
+- **Node.js Coding Practice:**
+  I continued to hone my Node.js JavaScript coding skills, particularly for non-web server applications. This allowed me to gain practical experience in writing and executing JavaScript code.
+
+- **Code Refactoring:**
+  Building on my previous JavaScript experience, I engaged in refactoring code from the previous project. This practice helped me improve code quality and maintainability by restructuring and enhancing readability.
+
+## Overview of Project Elements
 
 1. **Git Proficiency:**
-   - Participants will utilize the CLI to create and manage a Git repository (repo), fostering a solid understanding of version control concepts.
+   I utilized the CLI to manage Git repositories, solidifying my understanding of version control concepts.
 
 2. **Refactoring Practice:**
-   - Building on previous JavaScript experience, participants will refactor code from the previous project, honing their skills in improving code structure and readability.
+   I refined my skills in code restructuring and readability by refactoring JavaScript code from the previous project.
 
 3. **Visual Studio Code Integration:**
-   - Leveraging VSCode's Source Control functionality, participants will interact with Git within the familiar environment of their code editor.
+   Leveraging VSCode's Source Control functionality, I seamlessly interacted with Git within the code editor.
 
 4. **.gitignore Utilization:**
-   - Participants will create and utilize a .gitignore file to specify files and directories that should be ignored by Git, ensuring cleaner version control.
+   I created and utilized a .gitignore file to ensure cleaner version control by specifying files and directories to be ignored by Git.
 
 5. **Diff Split Screen:**
-   - Exploring Git's diff functionality, participants will utilize the split-screen feature to visualize and compare changes made to their code.
+   I explored Git's diff functionality, utilizing the split-screen feature in VSCode to visualize and compare code changes effectively.
+
+This project provided me with valuable hands-on experience in Git usage, Node.js coding, and code refactoring, further enhancing my development skills.
